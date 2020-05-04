@@ -1,0 +1,11 @@
+1: Create GITHUB account
+2 : Install git 
+
+(for mac: go to terminal: 
+Run this command: 
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+Once this goes through: 
+Run the command: brew install git
+
+3: go through git cheat sheets
+
