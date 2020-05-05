@@ -1,0 +1,6 @@
+Assignment 2:
+Q 1 to create one file and push to github account 
+File name should be <Firstname-Lastname>.txt
+Write 1 line of anything.
+
+Q2:In the above file , write what is old name for Java ?
