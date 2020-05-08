@@ -1,0 +1,12 @@
+1: Program to write type of primitive data type ?
+
+int a = 5;
+double weight = 120.50;
+
+
+2: declare 8 types of primitive data type with values and print those values with their respective name?
+
+eg: String name = "Laptop";
+  print this values : My laptop is from Apple corporation
+eg: int ph = 234;
+ my phonenumber is 234 / "my phone number is 234"  ;
