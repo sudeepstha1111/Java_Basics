@@ -1,0 +1,12 @@
+1: download and setup java
+2: set up path : test java -version in command prompt/terminal 
+3: write a program to print your name ? compile and run 
+4: write a program to print this character 
+
+        ----------
+       | @    @   |
+       |          |
+       ------------
+           /|\
+       
+           /|\

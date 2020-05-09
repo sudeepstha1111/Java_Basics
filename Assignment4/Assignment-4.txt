@@ -1,10 +1,12 @@
-1: Separate Program to Add, Subtract, Divide, Modulo, Multiply two Numbers?
-2: Program to Calclate Simple Interest ?
-3: Program to find quotient and remainder ?
-4: Program to check if the number is Even or Odd ?
-5: Program to check if a person is abvove 21 or not ?
-6: Program to check if a person is between 0-10 print (baby), 10-20 (teenage), 20-40(young), 40-55 (mid age), and 
-   55 and above (old) ? Also print his/her age when based on his ranks ? eg ; if you say he/she is teenage then
-   what is their age ?
-7 Program to find if a person is eligible to drink(over 21) , smoke (over 18),  do both(over 21), or do none(less)
-  less than 18 ?
+1: Program to write type of primitive data type ?
+
+int a = 5;
+double weight = 120.50;
+
+
+2: declare 8 types of primitive data type with values and print those values with their respective name?
+
+eg: String name = "Laptop";
+  print this values : My laptop is from Apple corporation
+eg: int ph = 234;
+ my phonenumber is 234 / "my phone number is 234"  ;
