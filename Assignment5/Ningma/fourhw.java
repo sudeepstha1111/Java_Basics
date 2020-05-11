@@ -1,10 +1,9 @@
 public class fourhw{
 public static void main(String [] args){
-int temperature = 100;
-if (temperature < 98){
-System.out.println("patient has no fever.");
+int temp  = 21;
+if (temp % 2==0{
+System.out.println("Temp is even.");
 } else {
-System.out.println("patient has fever.");
-}
+System.out.println("Temp is odd.");
 }
 } 
