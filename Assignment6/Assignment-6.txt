@@ -1,0 +1,20 @@
+Assigement: project Trip planner 
+
+Part 1 – Greeting
+
+First, you’ll want to greet your user and ask them their name. Once your user tells you their name use it(on your greeting use the name) to greet them!
+Then ask them where they would like to go. Finally, tell your user their destination sounds like a great trip.
+HINT: Some names and destinations are more than 1 word! Plan accordingly.
+
+
+Part 2 – Travel time and Budget
+For this part, you’ll want to ask the user about how much time and money they are budgeting for their trip. Ask the user:
+1.	How many days are they going to spend in their destination?
+2.	What is their total budget for the trip in USD?
+3.	What is the currency symbol for their destination? For example, the us dollar’s is USD, the euro’s is EU etc…
+4.	The conversion rate between 1 USD to however many of that destinations currency. For example, there are 0.9 euro to 1 usd, so the user would type in 0.9
+Once you have all this info (stored in the correct variable types), use it to tell the user the following information:
+1.	How much time the user will spend at their destination in days, hours, minutes and seconds
+2.	Show the user their budget in USD for the whole trip and how much they can spend in USD per day
+3.	Show the user their budget in the travel destination’s currency for the total trip and per day
+HINT: keep in mind that if you divide integers you might lose some information when it truncates.
