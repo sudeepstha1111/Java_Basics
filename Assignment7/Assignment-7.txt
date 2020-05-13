@@ -1,0 +1,6 @@
+1:Use switch case to create a basic calculator?
+2:Write a program to find sum of Natural numbers ?(use for loop);
+3:write a program to find the factorial of a number ? (user for loop)
+4:write a program to find fibonacci series ? (user while loop)
+5: write a program to play even and odd game ? result based on user input , if the user input is 2 , you 
+input even number else you input odd number ?
