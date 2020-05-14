@@ -2,14 +2,14 @@ public class intmethod{
 public static void main(String[] args)
 { 
 
-int a = 146; int b = 5;
+int a = 10; int b = 4;
 hi();
-divide(146,5);
+divide(10,4);
 
 
 }
 public static void divide(int a, int b){
-System.out.println(a/b);
+System.out.println(a%b);
 
 }
 public static void hi(){
