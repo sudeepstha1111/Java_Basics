@@ -1,0 +1,21 @@
+1;Write a void method to print total number of months , list each month using switch ?
+2: write a int method to find remainder of two numbers ?
+3: utilize the number got from above Q2 problem in this method, Name this method  evenOdd , based on the remainder check if the remainder is even or odd ? this method takes parameter;
+4: write a method that prints the shapes triangle, rectange, circle , pass user input as parameter, if the userInput is 3, say result should be triangle, 0 for circle, 4 for rectangle.
+5: declare 2 array of type String and integer and print values using index and also using for loop ?
+6: Write a Java program to print the following grid.
+   - - - - - -
+   - - - - - -
+   - - - - - -
+   - - - - - -
+7:Write a Java program to print the following.
+       *
+      * *
+     * * *
+    * * * *
+   * * * * *
+8: write a java program to find maximum and minimum value of an array ?
+9: write a java program to reverse an array value ? eg, 1,2,3 should be 3,2,1
+10 Make sure all the program has its own methods ? 
+
+  
