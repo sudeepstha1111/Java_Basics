@@ -1,0 +1,9 @@
+1: Create a string using string literal and using new key words ?
+2: Write a program to add two strings together ?
+3: write a program to get the first 4 letters from a String?
+5: write a program to create mutable string ?
+6: write a program to create mutable string with synchronized options ?
+7: write a program to Create an object called Animals  , create its state and behaviousrs , define its constructors ?
+8: Create a class called Vehicles, and several vechicles brands as variables , some behaviour of vehicles ,
+associate variables values with vehicles behaviours and create constructors based on different state ?
+
