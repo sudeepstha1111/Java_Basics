@@ -1,0 +1,25 @@
+1: Create a class called Office with the following features ?
+have several variables : departments, employee, officeSupplies, Headquartes with thier class data type
+	Create Constructos for each parameter, default, all parameter ?
+	Create getters and setters methods?
+	Create toString methods ?
+2: Create Class called Departments ?
+	create varibales related to department : accounting, finance, HR, InformationTech.
+	Create getters and setters
+	Create Constructos for each parameter, default, all parameter ?
+	Create method called printDepartment which prints the different department.
+3: Create class called Employee?
+	Create variables related to Employee: firstName, lastName, designation, ID, Address ? 
+	Create getters and setters 
+	create constructors for each parameter and default, all ?
+	create method printEmployeeDesignation which prints designation for each employee ?
+4: Create class officesupplies?
+	Create variables related to officeSupplies: computers, monitors, stationary, furnitures ... ? 
+        Create getters and setters 
+        create constructors for each parameter and default, all ?
+        create method which will get officesupplies
+5: Create a program class ?
+	call all the getters, setters, method, create instances , with different parameters, call different
+	values from different classes, make use of method calls.
+
+ 

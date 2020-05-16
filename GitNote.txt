@@ -1,0 +1,22 @@
+to clone a repo :
+	git clone <copy url from github clone button>
+once cloned go to the folder open git bash make some changes 
+	git add <file name> : this will add file to git
+	git status to check if file is added or not , if green added if red not added
+	git commit -m "messages of your changes" : this will add it to commit
+	git push : this will push the change to github
+if you get error in git push, read the erros and see if it says git pull, if yes
+	git pull 
+	git push : again to make sure you pushed the changes 
+
+
+in genereal commands:
+
+git clone <url>
+git status
+git add <file name>
+git commit -m "message to your changes anything"
+git push
+git pull
+
+
