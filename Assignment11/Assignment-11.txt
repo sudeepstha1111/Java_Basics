@@ -1,0 +1,5 @@
+Create a class called Shapes and create some variables and methods ?
+Create another  called triangle, square, rectange and inherit the common properties from parent class?
+for the above class demonstrate the method overloading, method overiding, and super keywords implementation ?
+Also work on Assignment 10 in details ?
+Read through IS-A and HAS-A relationship ?
