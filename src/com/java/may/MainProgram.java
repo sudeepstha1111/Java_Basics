@@ -11,7 +11,7 @@ public class MainProgram {
 		System.out.println(department.humanResources);
 		System.out.println(department.informationTechnology);
 		System.out.println(office.toString());
-		System.out.println("*****************************");
+		System.out.println("*****************************"); // four variables, dept, officesupplies, employee
 		
 		Employee emp = new Employee();
 		emp.setFirstName("Henry");

@@ -2,20 +2,19 @@ package com.java.may;
 
 public class Office {
 
+//	HeadQuarters headquarters;
 	Department department;
 	Employee employee;
 	OfficeSupplies officeSupplie;
 
-	public Office() {
+	public Office() {  
 	}
 
 	public Office(Department department) {
-		super();
 		this.department = department;
 	}
 
 	public Office(Department department, Employee employee, OfficeSupplies officeSupplie) {
-		super();
 		this.department = department;
 		this.employee = employee;
 		this.officeSupplie = officeSupplie;

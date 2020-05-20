@@ -12,7 +12,6 @@ public class Department {
 	}
 
 	public Department(String accouting, String finance, String informationTechnology, String humanResources) {
-		super();
 		this.accouting = accouting;
 		this.finance = finance;
 		this.informationTechnology = informationTechnology;
