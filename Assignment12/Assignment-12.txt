@@ -1,0 +1,3 @@
+Write a program to create interface and create three methods and use child classes to implement the interface ?
+Write a program to create Abstract classes and create abstract and non abstract methods and implement the abstract classes to child classes ?
+write a program to create arraylist of fruits and add 5 different types of fruits and remove 2 fruits and print all the fruits using iterator and for each?

@@ -5,7 +5,7 @@ public abstract  class BankOfAmericaATM {
 	public abstract void withdraw();
 	public abstract void checkBalances();
 	
-
+	int a = 5000;
 	public void getStocksData(){
 		// some code to get stock data 
 	}
