@@ -1,0 +1,22 @@
+Assignment: 
+1.create Arraylist of Arraylist with Integers and print using for each/ for loop/ Iterator ; also print the instance of the list
+
+2: Create LinkedList of String and print it using for each/ for loop/ Iterator; also print the instance of the list
+3: learn Difference between linked list and arrarylist
+4: try to get through what is linked list and array list concepts:
+5 Write a method removeEvenLength that takes an ArrayList of Strings as a parameter and that removes all of the strings of even length from the list.
+6:Try to print this:
+*         *
+**        ** 
+***       ***
+****      ****
+*****     *****
+******    ******
+
+7.	Go through all the queue and set theory:
+8.	Write a program to reverse an ArrayList, LinkedList
+9.	Search an element in the Arraylist and LinkedList , take user in out, use parameters for the element which has to be searched also print the index.
+10.	Move last element in an ArrayLsit and LinkedList
+11.	Create a hashset with 15 names and only 10 names should be printed when looping the hashset.
+12.	Define arraydequeue, deque and do some basic operations: insert, remove, , get last element, get first element, 
+13. Memorize the main adv and disadvanctage of list, set and queue

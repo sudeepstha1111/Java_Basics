@@ -7,6 +7,12 @@ public class ArrayListDemo {
 
 	public static void main(String[] args) {
 			ArrayList<String> list = new ArrayList<String>();
+			ArrayList<Integer> r = new ArrayList<Integer>();
+			r.add(100);
+			r.add(200);
+			r.add(300);
+			r.add(400);
+			
 			list.add("Ningma"); //0
 			list.add("Roshan");//1
 			list.add("Keshab");
@@ -21,8 +27,8 @@ public class ArrayListDemo {
 			System.out.println("**************");
 			
 			/// foreach
-			for(String l :list ){
-				System.out.println(l);
+			for(Integer l :r ){
+				System.out.println("RollNumbers are :" + l);
 			}
 	}
 
