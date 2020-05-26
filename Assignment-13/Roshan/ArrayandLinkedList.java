@@ -2,7 +2,6 @@ package JavaBasics;
 
 import java.util.ArrayList;
 import java.util.Iterator;
-import java.util.LinkedList;
 
 public class ArrayandLinkedList {
 
@@ -32,29 +31,5 @@ public class ArrayandLinkedList {
 	          System.out.println(fruit.get(counter)); 		
 	      } 
 		
-		LinkedList<Integer> fruita = new LinkedList<Integer>();
-		fruita.add(11);
-		fruita.add(12);
-		fruita.add(13);
-		fruita.add(14);
-		fruita.add(15);
-		
-		System.out.println("****Using LinkedList Iterator Method****");
-		
-		Iterator<Integer> listt = fruita.iterator();
-		while(listt.hasNext()){
-			System.out.println(listt.next());
-		}
-		System.out.println("****Using LinkedList For each Method****");
-		
-		//Using For each Method
-		for(Integer l :fruita ){
-			System.out.println(l);
-		}
-		
-		 System.out.println("****Using LinkedList For Loop Method****");
-	      for (int counter = 0; counter < fruita.size(); counter++) { 		      
-	          System.out.println(fruita.get(counter)); 		
-	      } 
 	}
 }
