@@ -1,0 +1,22 @@
+Assignments:
+1: create a hashMap and hashTable of Countries and capitals , do the operations as add, remove, replace,. 
+   Print using iterator and foreach for all entryset , keyset and also print toString.
+2: make a use of contains key and contains values:
+3: Check whether two Strings are Anagram of each other using HashMap in Java
+4:Create a property file with 5 different values and print the values
+5: Create ENUMSET and ENUMMAP of Continents and print all the values print 
+6: Do one program for all of these topics ?
+Theory: Constructor, parameterized contructor, 
+How do you define a constructor: do an example
+what is instance? Example
+what is getter and setter? example
+what is default constructor? Example 
+when do we have to define default constructor?
+What is inheritance? Example
+What is implements? Example
+What is parameter? example
+What is return type? Example 2 
+What id properties class ? example 
+Method overloading and method overriding
+What is toString ? example
+Define hashmap, hashset, arraylist, linkedlist, enum, with examples?
