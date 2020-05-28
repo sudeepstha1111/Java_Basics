@@ -1,0 +1,119 @@
+Write a program to create interface and create three methods and 
+use child classes to implement the interface ?
+
+interface Equipments
+{
+public void price ( ) ;
+}
+
+class Cost implements Equipments {
+System.out.println("Fan");
+
+public void operation();
+System.out.println("Color");
+
+Cost expenses = new Cost();
+ecpenses price();
+expenses Operation();
+
+
+Write a program to create Abstract classes and create abstract and
+ non abstract methods and implement the abstract classes to child 
+classes ?
+
+package Game;
+
+public abstract class GameObj {
+	
+public abstract void draw ();
+
+public static void main(String[] args) {
+
+Player player = new Player ();
+player.draw ();
+		
+Menu menu = new Menu();
+menu.draw();
+}
+}
+
+package Game;
+public class Player extends GameObj {
+@Override
+public void draw() {
+System.out.println("Player Draw");	
+}
+}
+
+
+package Game;
+
+public class Menu extends GameObj{
+
+@Override
+public void draw() {
+
+System.out.println("Menu Draw");
+}
+}
+
+//Outputs
+Player Draw
+Menu Draw
+
+
+write a program to create arraylist of fruits and add 5 different 
+types of fruits and remove 2 fruits and print all the fruits using
+iterator and for each?
+
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.ListIterator;
+
+public class Food {
+
+public static void main(String[] args) {
+ArrayList < String > fruitlist = new ArrayList <> () ;
+fruitlist.add("Apple") ;
+fruitlist.add("Mango") ;
+fruitlist.add("Strawberry");
+fruitlist.add("Raspberry");
+fruitlist.add("Banana");
+				
+System.out.println("For Loop:");
+		
+
+		
+for (int i=0; i< fruitlist.size(); i++) {
+System.out.print(fruitlist.get(i) + "  ");
+}
+fruitlist.remove("Strawberry");
+fruitlist.remove("Raspberry");
+		
+System.out.println("\n\nIterator Method:");
+Iterator < String > iterator = fruitlist.iterator() ;
+while (iterator.hasNext() ) {
+System.out.print( iterator.next( ) + " ") ;
+}
+
+System.out.println("\n\nUse forEach Methods:"); 
+fruitlist.forEach((car) -> {
+System.out.print(car + "  ");
+} ) ;
+
+}
+}
+
+//Output:
+
+For Loop:
+Apple  Mango  Strawberry  Raspberry  Banana  
+
+Iterator Method:
+Apple Mango Banana 
+
+ Use forEach Methods:
+Apple  Mango  Banana  
+
+
+
